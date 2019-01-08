@@ -1,0 +1,8 @@
+.paint {
+  position:absolute;
+  top:none;
+  left: none;
+  width: none;
+  height: none;
+  background-color: white;
+}
