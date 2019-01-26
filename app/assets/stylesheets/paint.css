@@ -6,3 +6,9 @@
   height: none;
   background-color: white;
 }
+
+.ball {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
